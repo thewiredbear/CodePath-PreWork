@@ -33,7 +33,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-This was my first time with Swift and iOS. I have always been a web developer, so yeah, this was a good challenge( especially in the finals week ). Still, CodePath seems interestng enough, so I took time out and grinded through all the work.
+This was my first time with Swift and iOS. I have always been a web developer, so yeah, this was a good challenge( especially in the finals week ). Still, CodePath seems interestng enough, so I took time out and grinded through all the work. **All the main files are in the "Tips Main" folder(sorry, my first time with Git, don't really know how to use the ignore list).**
 
 ## License( NO Cheating Folks )
 
